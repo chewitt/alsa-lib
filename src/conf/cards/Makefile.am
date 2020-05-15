@@ -2,6 +2,8 @@ alsaconfigdir = @ALSA_CONFIG_DIR@
 alsadir = $(alsaconfigdir)/cards
 cfg_files = aliases.conf \
 	AACI.conf \
+	AMLOGIC-HDMI.conf \
+	AMLOGIC-HDMI-SPDIF.conf \
 	ATIIXP.conf \
 	ATIIXP-SPDMA.conf \
 	ATIIXP-MODEM.conf \
