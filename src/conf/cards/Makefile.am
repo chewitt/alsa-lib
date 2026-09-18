@@ -12,6 +12,7 @@ cfg_files = aliases.conf \
 	Audigy2.conf \
 	Aureon51.conf \
 	Aureon71.conf \
+	axg-sound-card.conf \
 	CA0106.conf \
 	CMI8338.conf \
 	CMI8338-SWIEC.conf \
