@@ -29,6 +29,7 @@ cfg_files = aliases.conf \
 	FWSpeakers.conf \
 	FireWave.conf \
 	GUS.conf \
+	gx-sound-card.conf \
 	HDA-Intel.conf \
 	HdmiLpeAudio.conf \
 	ICE1712.conf \
